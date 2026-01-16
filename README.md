@@ -8,7 +8,7 @@ This website serves as a personal portfolio and public landing page, highlightin
 
 ## 🌐 Live Website
 
-👉 https://annaumixyz.github.io/annaumi-website/  
+👉https://annaumixyz.github.io/My-Website/
 *(Custom domain .xyz coming soon)*
 
 ---
